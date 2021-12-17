@@ -1,0 +1,22 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+p {
+  color: pink;
+  border: lightcoral
+}
+.messing {
+  background-color: lightblue;
+  border-style: solid;
+  border: lightcoral;
+}
+li {
+  color: white;
+}
+li:nth-child(odd) {
+  color: lime;
+}
+li:nth-child(even) {
+  color: peru;
+}
